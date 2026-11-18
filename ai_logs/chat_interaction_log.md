@@ -31,6 +31,13 @@ Toàn bộ quá trình sử dụng AI được ghi lại minh bạch nhằm đ�
 ### Phiên 3: Thiết kế công cụ tương tác cho sinh viên tự thực nghiệm
 - **Yêu cầu của sinh viên:** Muốn trực tiếp chạy test trên máy, tự nhập kích thước dữ liệu $N$, tự quét các giá trị CUTOFF và tự chọn ra con số tối ưu cho cấu hình máy của mình.
 - **AI hỗ trợ:**
-  - Viết chương trình tương tác menu [`InteractiveBenchmark.java`](file:///d:/Đại%20học/DSA/mergesort-cutoff-project/src/benchmark/InteractiveBenchmark.java) và file batch [`CHAY_THU_NGHIEM_CUA_BAN.bat`](file:///d:/Đại%20học/DSA/mergesort-cutoff-project/CHAY_THU_NGHIEM_CUA_BAN.bat).
-  - Viết script Python [`plot_my_results.py`](file:///d:/Đại%20học/DSA/mergesort-cutoff-project/scripts/plot_my_results.py) tự động vẽ biểu đồ trực quan hóa dữ liệu đo thực tế từ máy của sinh viên.
+  - Viết chương trình tương tác menu `InteractiveBenchmark.java` và file batch `CHAY_THU_NGHIEM_CUA_BAN.bat` (dùng nội bộ trên máy cá nhân để chạy thử nghiệm).
+  - Viết script Python `plot_my_results.py` tự động vẽ biểu đồ trực quan hóa dữ liệu đo thực tế từ máy của sinh viên.
   - Cung cấp khung báo cáo khoa học đầy đủ để sinh viên điền số liệu thực nghiệm và giải thích hiện tượng.
+
+### Phiên 4 (18/11/2026): Đối chiếu cài đặt, phân tích số liệu thực tế và hoàn thiện báo cáo
+- **Hoạt động của sinh viên:** Tự thực hiện thêm 14 phiên đo toàn dải trên máy cá nhân với nhiều kích thước mảng ($N = 50.000$ đến $N = 8.989.999$), xuất biểu đồ mới nhất và hoàn thiện thông tin báo cáo.
+- **AI hỗ trợ:**
+  - Giải thích và rà soát đối chiếu từng phương thức trong `MergeSortCutoff.java` và `InsertionSort.java` với các slide bài giảng (Slide 7, 8, 18, 52).
+  - Tổng hợp thống kê từ toàn bộ 16 phiên đo trong `data/my_machine_results.csv`, đối chiếu với mô hình chi phí trong `data/summary_statistics.csv` và cập nhật toàn bộ số liệu thật vào báo cáo `report/Bao_Cao_Thuc_Nghiem_Mergesort_Cutoff.md`.
+  - Cấu hình `.gitignore` và đẩy các tệp thuộc phạm vi nộp bài lên GitHub.

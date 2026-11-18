@@ -6,9 +6,7 @@ bin/
 __pycache__/
 *.pyc
 
-# Personal interactive trial/test files (excluded from submission repo)
+# Personal interactive trial scripts (excluded from submission repo)
 CHAY_THU_NGHIEM_CUA_BAN.bat
 src/benchmark/InteractiveBenchmark.java
 scripts/plot_my_results.py
-data/my_machine_results.csv
-plots/ket_qua_may_cua_ban.png
