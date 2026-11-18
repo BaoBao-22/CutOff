@@ -1,6 +1,7 @@
 # NHẬT KÝ THẢO LUẬN VỚI AI (AI INTERACTION LOG)
 
 **Đề tài:** Nghiên cứu & Thực nghiệm xác định ngưỡng CUTOFF tối ưu cho Mergesort  
+**Trường:** Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET-VNU)  
 **Môn học:** Cấu trúc Dữ liệu và Giải thuật (DSA)  
 **Sinh viên thực hiện:** Nguyễn Kim Đạt - MSSV: 25023210  
 **Tài liệu tham chiếu:** Algorithms 4th Edition (Sedgewick & Wayne)  

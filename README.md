@@ -1,6 +1,6 @@
 # DỰ ÁN THỰC NGHIỆM ĐO ĐẠC VÀ XÁC ĐỊNH NGƯỠNG CUTOFF TỐI ƯU CHO MERGESORT
 
-Dự án thuộc môn học Cấu trúc dữ liệu và Giải thuật (DSA) - Học viện Công nghệ Bưu chính Viễn thông / ĐH Quốc Gia / Bách Khoa (chương trình chuẩn Algorithms 4th Edition - Sedgewick & Wayne).
+Dự án thuộc môn học Cấu trúc dữ liệu và Giải thuật (DSA) - Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET-VNU) (chương trình chuẩn Algorithms 4th Edition - Sedgewick & Wayne).
 
 ---
 

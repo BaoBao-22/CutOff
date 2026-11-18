@@ -1,5 +1,6 @@
 # BÁO CÁO THỰC NGHIỆM ĐO ĐẠC VÀ XÁC ĐỊNH NGƯỠNG CUTOFF TỐI ƯU CHO THUẬT TOÁN MERGESORT
 
+**Trường:** Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET-VNU)  
 **Học phần:** Cấu trúc dữ liệu và Giải thuật (DSA)  
 **Chủ đề thực nghiệm:** 1.3 & 1.4 Analysis of Algorithms | 2.1 Elementary Sorts | 2.2 Mergesort  
 **Giáo trình quy chuẩn:** *Algorithms, 4th Edition* - Robert Sedgewick & Kevin Wayne  
